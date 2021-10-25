@@ -5,7 +5,7 @@ import img from './../Img/int.png'
 function First() {
     return (
         
-            <div data-aos="fade-up" className='row'>
+            <div data-aos="" className='row'>
                     
                     <div className='col-sm-12 mt-md-5 mt-sm-0 d-flex flex-column col-md-6'>
 
