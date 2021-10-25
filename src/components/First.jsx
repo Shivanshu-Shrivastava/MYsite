@@ -5,13 +5,14 @@ import img from './../Img/int.png'
 function First() {
     return (
         
-            <div className='row'>
+            <div data-aos="fade-up" className='row'>
                     
-                    <div className='col-sm-12 my-auto col-md-6'>
+                    <div className='col-sm-12 mt-md-5 mt-sm-0 d-flex flex-column col-md-6'>
 
-                        <h2 className='text-center'>Hello I am </h2>
-                        <h1 className='text-center'>Shivanshu</h1>
-                <div className='trian'></div>
+                        <h4 className='text-center'>Hello I'm </h4>
+                        <h1 className='text-center'>Shivanshu Shrivastava</h1>
+                        <h4 className='text-center'>Full Stack Developer</h4>
+                <div className='trian m-auto'></div>
                     
                     </div>
                     <div className='col-sm-12 col-md-6'>

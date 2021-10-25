@@ -4,7 +4,7 @@ import img from './../Img/succ.jpg'
 function About() {
     return (
         <div id='about' data-aos="fade-right" >
-            <h1 className='text-center'>About Me</h1>
+            <h1 style={{fontSize:3+'rem'}} className='text-center heading'>About Me</h1>
             <div className='row'>
                 <div className='col-md-6 col-sm-12'>
                     <div className='d-flex pt-md-4  px-md-4 p-0 flex-column'>
@@ -20,24 +20,24 @@ function About() {
 
                                     <tbody>
                                         <tr>
-                                            <td className='fixco'>Python</td>
-                                            <td className='fixco'>Html</td>
-                                            <td className='fixco'>CSS</td>
+                                            <td className=''>Python</td>
+                                            <td className=''>Html</td>
+                                            <td className=''>CSS</td>
                                         </tr>
                                         <tr>
-                                            <td className='fixco'>JavaScript</td>
-                                            <td className='fixco'>Django</td>
-                                            <td className='fixco'>AWS</td>
+                                            <td className=''>JavaScript</td>
+                                            <td className=''>Django</td>
+                                            <td className=''>AWS</td>
                                         </tr>
                                         <tr>
-                                            <td className='fixco'>ReactJS</td>
-                                            <td className='fixco'>MangoDB</td>
-                                            <td className='fixco'>ExpressJS</td>
+                                            <td className=''>ReactJS</td>
+                                            <td className=''>MangoDB</td>
+                                            <td className=''>ExpressJS</td>
                                         </tr>
                                         <tr>
-                                            <td className='fixco'>NodeJS</td>
-                                            <td className='fixco'>Bootstrap</td>
-                                            <td className='fixco'>Tailwind CSS</td>
+                                            <td className=''>NodeJS</td>
+                                            <td className=''>Bootstrap</td>
+                                            <td className=''>Tailwind CSS</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -47,7 +47,7 @@ function About() {
                             
                         </div>
                         <div>
-                        <a target='_blank' href='https://drive.google.com/file/d/1OMYDp8XoqGPaOTf3i6HnZNyQ5rE-4_Wk/view?usp=sharing' className='linkB pb-2'>See Resume</a><br/>
+                        <a target='_blank' href='https://drive.google.com/file/d/1SgAQMx1gDCERQtGfKLj26b60e5cBU6az/view?usp=sharing' className='linkB '>See Resume</a><br/>
 
                         </div>
                     </div>
