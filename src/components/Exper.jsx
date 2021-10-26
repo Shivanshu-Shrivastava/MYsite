@@ -5,8 +5,8 @@ import img2 from './../Img/stick.jpg'
 function Exper() {
     return (
         <div id='exper' data-aos="fade-left" >
-            <h1 style={{ fontSize: 3 + 'rem' }} className='text-center heading'>Experience</h1>
-            <section className='container'>
+            {/* <h1 style={{ fontSize: 3 + 'rem' }} className='text-center heading'>Projects</h1> */}
+            {/* <section className='container'>
                 <aside style={{ width: 'unset' }} className='card my-4'>
                     <div className='row '>
                         <div className='col-md-4 col-sm-12 d-flex'>
@@ -51,14 +51,58 @@ function Exper() {
 
                             </div>
                         </div>
-                        <div className='col-md-3 col-sm-12 d-flex'>
+                        <div className='col-md-6 col-sm-12 d-flex'>
                             <img className='img-fluid m-auto' src={img2} />
 
                         </div>
 
                     </div>
                 </aside>
-            </section>
+            </section> */}
+            <div className='row'>
+                <div className='col-md-4 col-sm-12'>
+                    {/* <img className='img-fluid' src={img} /> */}
+                    <h1 style={{ fontSize: 3 + 'rem' }} className='text-center heading'>Projects</h1>
+                    {/* <hr /> */}
+
+                </div>
+                <div className='col-md-6 mx-auto col-sm-12'>
+                <div className='d-flex shadow-sm p-3 mb-5 bg-white rounded pt-md-4  px-md-4 p-0 flex-column'>
+                        <a target='_blank' href='http://jobportal.protrainy.com/accounts/login?next=/' className='linkB'>Job Portal Site</a>
+                        <span className='text-muted'>Mar 2021 - Apr 2021</span>
+                        <p>In this project I have created job portal website in which students can submit their resume and search job of their choice and the recruiter gets the skilled student easily</p>
+
+
+
+                    </div>
+                    <div className='d-flex shadow-sm p-3 mb-5 bg-white rounded pt-md-4  px-md-4 p-0 flex-column'>
+                        <a target='_blank' href='http://jobportal.protrainy.com/accounts/login?next=/' className='linkB'>CV Builder</a>
+                        <span className='text-muted'>Feb 2021 - Mar 2021</span>
+                        <p>In this project you can create resume and download as PDF.</p>
+
+
+
+                    </div>
+                    <div className='d-flex shadow-sm p-3 mb-5 bg-white rounded pt-md-4  px-md-4 p-0 flex-column'>
+                        <a target='_blank' href='https://ritual23.netlify.app/' className='linkB'>Health Related Site</a>
+                        <span className='text-muted'>Jun 2021 - Jun 2021</span>
+                        <p>It is simple front end design where you can see all health related medicine.</p>
+
+
+
+                    </div>
+                    <div className='d-flex shadow-sm p-3 mb-5 bg-white rounded pt-md-4  px-md-4 p-0 flex-column'>
+                        <a target='_blank' href='https://etark2.netlify.app/' className='linkB'>Data Stored in MangoDB</a>
+                        <span className='text-muted'>Jun 2021 - Jun 2021</span>
+                        <p>It is simple form based site where you can fill form and your data will be stored in MongoDB shell.</p>
+
+
+
+                    </div>
+                </div>
+
+
+            </div>
         </div>
     )
 }

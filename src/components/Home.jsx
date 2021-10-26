@@ -6,6 +6,7 @@ import About from './About'
 import Contact from './Contact'
 import Logo from './Logo'
 import Exper from './Exper'
+import Skill from './Skill'
 
 
 export default class Home extends Component {
@@ -33,10 +34,15 @@ export default class Home extends Component {
                 <div className='p-33'>
                 <First />
                 <About />
-                <Exper />
                 
 
                 </div>
+                <Skill />
+                <div className="p-33">
+                <Exper />
+
+                </div>
+
                 <Contact />
              
             </div>

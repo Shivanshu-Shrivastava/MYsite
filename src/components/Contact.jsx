@@ -6,7 +6,7 @@ function Contact() {
     return (
         <div id='contact' data-aos="flip-up" className='footer text-light'>
             <div className='d-flex flex-column '>
-                <h1 className='text-center pt-2 heading'>Get In Touch</h1>
+                <h1 className='text-center text-light pt-2 heading'>Get In Touch</h1>
                 <p className='text-center'> My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!</p>
                 <a target='_blank' className='emailbtn mb-2  text-center mx-auto linkB  px-2 px-md-3' href="mailto:19au1057@mitsgwl.ac.in">Say Hi</a>
 

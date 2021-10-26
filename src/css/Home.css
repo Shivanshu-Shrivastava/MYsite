@@ -107,7 +107,8 @@ a{
 }
 #root > div > div.p-33 > div.row > div.col-sm-12.d-flex.flex-column.col-md-6 > h1{
     font-size: 3rem;
-    -webkit-text-stroke-width: thick;
+    -webkit-text-stroke-width: medium;
+
 }
 .navbar-toggler{
     border: unset!important;
@@ -124,7 +125,51 @@ a{
     outline: unset!important;
 }
 .heading{
-    -webkit-text-stroke-width: medium;
+    color: var(--rose);
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px
+ solid var(--rose);
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.svgw div{
+    cursor: pointer;
+
+}
+/* .svgw div:hover svg{
+    box-shadow: 0 2px 2px 0 rgb(233 30 99 / 14%), 0 3px 1px -2px rgb(233 30 99 / 20%), 0 1px 5px 0 rgb(233 30 99 / 12%);
+
+} */
+.svgw svg{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40px;
+    /* height: 90
+px
+; */
+    /* color: wheat; */
+    color: rgba(255,90,75,.8);
+
+}
+.svgw h6{
+    text-align: center;
+    color: var(--rose);
+    font-weight: 600;
+    font-size: 14px;
+
+}
+.starsvg svg{
+    width: 18px;
+
+}
+.stardown{
+    opacity: .3;
 }
 .emailbtn{
     padding: 9px;
@@ -409,6 +454,26 @@ a:hover{
     .circle{
         clip-path: circle(31% at right 42%);
     }
+    .svgw{
+        flex-direction: column;
+    }
+    .starsvg{
+        width: 22%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    .svgw h6{
+        font-size: 17px;
+        margin-top: .5rem;
+    }
+    .allsvg{
+        width: 100px!important;
+    }
+    .svgw div{
+        margin-bottom: 1rem;
+    }
+    
     
 }
 @media (max-width:500px) {

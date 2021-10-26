@@ -32,7 +32,7 @@ function Navbar() {
                 </div> */}
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item  ">
-                        <a class="nav-link linkB  px-0 px-md-4 d-inline-block"  href="#exper">Experience </a>
+                        <a class="nav-link linkB  px-0 px-md-4 d-inline-block"  href="#exper">Projects </a>
                     </li>
                     
                     <li class="nav-item  ">
