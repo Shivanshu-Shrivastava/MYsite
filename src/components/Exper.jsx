@@ -76,7 +76,7 @@ function Exper() {
 
                     </div>
                     <div className='d-flex shadow-sm p-3 mb-5 bg-white rounded pt-md-4  px-md-4 p-0 flex-column'>
-                        <a target='_blank' href='http://jobportal.protrainy.com/accounts/login?next=/' className='linkB'>CV Builder</a>
+                        <a target='_blank' href='https://cvbuilder.protrainy.com/' className='linkB'>CV Builder</a>
                         <span className='text-muted'>Feb 2021 - Mar 2021</span>
                         <p>In this project you can create resume and download as PDF.</p>
 

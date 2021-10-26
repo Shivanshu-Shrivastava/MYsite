@@ -14,7 +14,7 @@ function Navbar() {
         }
     }
     return (
-        <nav data-aos="fade-down" class="navbar navbar-expand-lg navbar-light f-600">
+        <nav data-aos="fade-down" class=" sticky-top navbar navbar-expand-lg navbar-light f-600">
             {/* <div class="navbar-brand " href="#">Shivanshu</div> */}
             <a class="navbar-brand" href="#">
                 <img src={img} width="45" height="45" alt="" />
