@@ -33,7 +33,7 @@ function About() {
 
                         </div>
                         <div className='mt-2'>
-                        <a target='_blank'  href='https://drive.google.com/file/d/1OKv4wUMA4n7pFIyx0wKaqsxhW8yT707G/view?usp=drivesdk' className='linkB '>See Protfolio</a><br/>
+                        <a target='_blank'  href='https://drive.google.com/file/d/1OKv4wUMA4n7pFIyx0wKaqsxhW8yT707G/view?usp=drivesdk' className='linkB '>See Portfolio</a><br/>
 
                         </div>
                     </div>
