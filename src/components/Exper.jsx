@@ -92,7 +92,7 @@ function Exper() {
 
                     </div>
                     <div className='d-flex shadow-sm p-3 mb-5 bg-white rounded pt-md-4  px-md-4 p-0 flex-column'>
-                        <a target='_blank' href='https://etark2.netlify.app/' className='linkB'>Data Stored in MangoDB</a>
+                        <a target='_blank' href='https://etark2.netlify.app/' className='linkB'>Data Stored in MongoDB</a>
                         <span className='text-muted'>Jun 2021 - Jun 2021</span>
                         <p>It is simple form based site where you can fill form and your data will be stored in MongoDB shell.</p>
 
