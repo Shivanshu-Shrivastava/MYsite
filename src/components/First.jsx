@@ -11,7 +11,7 @@ function First() {
 
                         <h4 className='text-center'>Hello I'm </h4>
                         <h1 className='text-center'>Shivanshu Shrivastava</h1>
-                        <h4 className='text-center'>Full Stack Developer</h4>
+                        <h4 className='text-center'>a Full Stack Developer</h4>
                 <div className='trian m-auto'></div>
                     
                     </div>
