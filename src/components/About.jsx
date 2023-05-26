@@ -33,11 +33,11 @@ function About() {
 
                         </div>
                         <div>
-                            <a target='_blank' href='https://drive.google.com/file/d/1VLILHdM0MOuK7bM8gODY8rD4e6eZsh3x/view?usp=sharing' className='linkB '>See Resume</a><br />
+                            <a target='_blank' href='https://drive.google.com/file/d/1BA7HBrezosVPdLwCQLftOMMUAiNQ4eTT/view?usp=share_link' className='linkB '>See Resume</a><br />
 
                         </div>
                         <div className='mt-2'>
-                            <a target='_blank' href='https://drive.google.com/file/d/17vvbhM1mPqsJIQ2D3BHWupyCdrVg6Wvw/view?usp=share_link' className='linkB '>See Portfolio</a><br />
+                            <a target='_blank' href='https://drive.google.com/file/d/1cENM5IOzPbma1JXCfoU4sMqFXOul4BKa/view?usp=share_link' className='linkB '>See Portfolio</a><br />
 
                         </div>
                     </div>
