@@ -43,7 +43,7 @@ function Navbar() {
                     </li>
                     <li class="nav-item  ">
                         <a class="nav-link linkB px-2 px-md-3 glwbtn d-inline-block" target='_blank' 
-                        href="https://drive.google.com/file/d/1VLILHdM0MOuK7bM8gODY8rD4e6eZsh3x/view?usp=sharing">Resume </a>
+                        href="https://drive.google.com/file/d/1BA7HBrezosVPdLwCQLftOMMUAiNQ4eTT/view?usp=share_link">Resume </a>
                     </li>
 
 
